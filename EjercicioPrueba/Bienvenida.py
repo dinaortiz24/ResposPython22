@@ -3,3 +3,4 @@ print(message)
 otromessage = "Eston es una prueba"
 message = message + otromessage
 print(message)
+print(otromessage)
