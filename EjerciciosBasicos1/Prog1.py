@@ -11,4 +11,4 @@ print("Dame un cateto adyacente")
 cateto_a = float(input())
 x = cateto_a/h
 cateto_o = math.sin(math.acos(x)) * h
-print("El cateto opuesto es:", cateto_o)
+print("El cateto opuesto tiene valor:", cateto_o)
