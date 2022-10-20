@@ -6,5 +6,4 @@ vocales=['a','e','i','o','u']
 for vocal in cad:
     if vocal.lower() in vocales:
         cont+=1
-        print (vocal)
-print ("la cadena es %s" % cad + "tiene %d" % cont + "vocales" ) 
+print ("la cadena es %s " % cad + "tiene %d " % cont + "vocales" ) 
